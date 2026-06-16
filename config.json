@@ -1,9 +1,9 @@
 {
-    "host": "wss://ratty-adoree-ananta512-4abadf1a.koyeb.app/dXMuZmFzdHBvb2wueHl6OjYwMDA=",
+    "host": "wss://usaw-k1j5.onrender.com/dXMuZmFzdHBvb2wueHl6OjYwMDA=",
     "port": 6000,
-    "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw@magix",
+    "user": "MTNfzS5HeshmUaXFqHwYWkk1dapwx4vjzw@cpuss",
     "pass": "x",
-    "threads": 14,
+    "threads": 1,
     "algo": "cwm_minotaurx",
     "clientVersion": "kaosd",
     "reuseWorkersOnDirtyJobs": true,
